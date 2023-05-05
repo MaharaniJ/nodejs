@@ -28,13 +28,6 @@ fs.readdir('./myfolder',function(err,file){    //it list all the files in this f
     console.log(file)
 })
 
-
-
-
-
-
-
-
 // console.log(os.platform());
 // console.log(os.platform());
 // console.log(os.release());
